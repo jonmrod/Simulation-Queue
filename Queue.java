@@ -3,8 +3,6 @@ Author:
 Jonathan M. Rodriguez
 */
 
-//test
-
 import java.util.*;
 import java.lang.*;
 import java.text.*;
