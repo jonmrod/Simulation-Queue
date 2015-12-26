@@ -5,7 +5,7 @@ Simulation of a Single Server Queue
 * CPU utilization
 * Average time waiting in the waiting queue
 * Average length of the waiting queue
-* Max size of the ready queue
+* Max size of the waiting queue
 
 A and B are arrival times.
 C and D are service times.
