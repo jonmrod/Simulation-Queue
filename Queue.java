@@ -1,7 +1,6 @@
 /*
+Author:
 Jonathan M. Rodriguez
-
-Single Server Queue
 */
 
 import java.util.*;
